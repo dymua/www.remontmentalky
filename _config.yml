@@ -1,5 +1,5 @@
 # Site
-name: 'Mundana'
+name: 'Ремонт Менталки'
 description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
@@ -28,12 +28,11 @@ authors:
       twitter:        https://twitter.com/wowthemesnet
 
     jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
+      name:           Вікторія
+      site:           https://t.me/PSY_aibot
       avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      bio:            "Психологиня, блогерка."
+      email:          psy_ai@txthivehub.com
  
 # Defaults
 defaults:
