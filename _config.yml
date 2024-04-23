@@ -1,7 +1,7 @@
 title: "Ремонт менталки"
 email: affprn@gmail.com
 timezone: UTC+2
-baseurl: ""
+baseurl: "/remontmentalky"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
